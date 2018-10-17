@@ -1,4 +1,6 @@
 Thank you for contributing our project!
 =========================================
 
-Please follow issue/PR template.
+## Templates
+
+Please use issue/PR templates which are inserted automatically.
