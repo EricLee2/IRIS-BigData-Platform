@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 발생한 문제를 해결 할 수 있도록 보고서 작성
 
 ---
 
@@ -20,6 +20,8 @@ about: Create a report to help us improve
 ** 스크린샷 **
 { 가능한 경우 문제를 설명하는데 도움이되는 스크린샷을 여기에 추가해 주세요 }
 
+** 로그 **
+{ 가능한 경우 문제를 설명하는데 도움이되는 서버 혹은 브라우저의 로그를 여기에 추가해 주세요 }
 
 ** 기타**
 { 기타 문제에 대한 다른 상황이나 의견은 여기에 추가 부탁드립니다 }
